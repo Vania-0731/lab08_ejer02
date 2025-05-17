@@ -41,7 +41,11 @@ Los atributos de Alumno son:
 ## Cómo usar
 
 1. Clona el repositorio  
-   `git clone https://github.com/Vania-0731/lab08_ejer02.git`
+   ```bash
+   git clone https://github.com/Vania-0731/lab08_ejer02.git
+   
+   cd tu_repositorio
+   ```
 
 2. Importa el proyecto en tu IDE favorito (IntelliJ, Eclipse)
 
@@ -50,6 +54,7 @@ Los atributos de Alumno son:
 4. Usa Postman o cualquier cliente HTTP para probar los endpoints
 
 ---
+
 
 ## Tecnologías usadas
 
@@ -65,14 +70,3 @@ Los atributos de Alumno son:
 - Este proyecto usa almacenamiento en memoria, por lo que los datos se perderán al detener la aplicación.
 - Ideal para propósitos educativos y pruebas rápidas.
 
----
-
-## Autor
-
-Tu Nombre - [tu.email@example.com](mailto:tu.email@example.com)
-
----
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Ver archivo LICENSE para más detalles.
